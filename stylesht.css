@@ -1,0 +1,16 @@
+h1{
+    color: pink;
+}
+h1:hover{
+    color:aquamarine;
+}
+.my-columns{
+    display: flex;
+    padding: 5px;
+}
+.myp{
+    color: aquamarine;
+}
+p{
+    padding: 20px;
+}
